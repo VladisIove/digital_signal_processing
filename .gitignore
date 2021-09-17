@@ -1,3 +1,4 @@
 /env
 /DIP
 .DS_Store
+*/.ipynb_checkpoints
